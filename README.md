@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Mia25125
-- 👀 I’m interested in lalalalala
-- 🌱 I’m currently learning ...l;rykig
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...irtf-k-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...o-9-k8y
+- 👀 I’m interested in outdoors activities
+- 🌱 I’m currently learning how to play piano
+- 💞️ I’m looking to collaborate on my homework
+- ⚡ Fun fact: im a kid
 
 <!---
 Mia25125/Mia25125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
