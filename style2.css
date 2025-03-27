@@ -1,0 +1,61 @@
+*{
+    font-family: "Playball", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+a {
+    text-decoration:none;
+    background-color: rgb(148, 197, 148);
+    padding:10px; 
+    border:2px dotted  rgb(199, 253, 118);
+    border-radius:20px;
+}
+a:hover{ 
+    background-color: mediumslateblue;
+    color: hotpink;
+    padding: 10px 15px;
+}
+body{
+background-color: peachpuff;
+display:flex;
+align-items: center;
+flex-direction: column;
+font-size: medium;
+}
+form{  
+ border-radius:10px;
+ background:burlywood;
+ border:2px solid rgb(54, 20, 20) ;
+ max-width:500px ;  
+} 
+input{
+    width:80%;
+    font-size: larger;
+    padding:15px;
+    margin-left:15px;
+    margin-top:10px;
+    margin-bottom:10px;
+    border:3px solid rgb(112, 2, 2);
+    border-radius:5px;
+}
+label{
+    font-size:30px;
+    font-weight:medium;
+    color:rgb(112, 2, 2);
+    margin-left:150px;
+
+}
+select{
+    width:87%;
+    font-size:larger;
+    padding:15px;
+    margin-left:15px;
+    margin-top:10px;
+    margin-bottom:10px;
+    border:3px solid darkred;
+    border-radius:5px;
+}
+input[type="chekbox"]{
+width:50px;
+height:50px;
+}
